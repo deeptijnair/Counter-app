@@ -1,0 +1,1 @@
+This is a counter app following the JavaScript course on Scrimba, with added personal touches.
