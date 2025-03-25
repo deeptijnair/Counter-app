@@ -1,0 +1,49 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    width: 400px;
+    height: 500px;
+    border:6px solid #d0f1bf;
+    background-color: #cad2c5;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    align-content: center;
+    box-shadow: 10px 10px 5px #2f3e46;
+    color: #2f3e46;
+}
+
+button{
+    width: 100px;
+}
+
+#increment-btn{
+    background-color: #354f52;
+    color: white;
+}
+
+#save-btn{
+    background-color: #59c3c3;
+    color: white;
+}
+
+#reset-btn{
+    background-color: #808f87;
+    color: white;
+}
+
+p{
+    font-weight: bold;
+}
+
+.card button{
+    display: block;
+    margin: auto auto 10px;
+
+}
+
+h2{
+    font-size: 40px;
+}
